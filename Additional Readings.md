@@ -48,11 +48,13 @@
 * [scipy.linalg in python](https://docs.scipy.org/doc/scipy/tutorial/linalg.html)
 
 > **`.solve()` in R:**
-> $$
+>
+>$$
 \begin{aligned}
     \underbrace{X}_{L U} \,\, \beta &= y\\
     L \,\, \underbrace{\boxed{U \beta}}_{\alpha}&= y\\\,\\
-\end{aligned}$$
+\end{aligned}
+$$
 > 1. $L \alpha = y$: $O(n^2)$ (solve $\alpha$)
 > 2. $U \beta = \alpha$: $O(n^2)$ (solve $\beta$)
 > 
