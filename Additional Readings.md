@@ -12,6 +12,7 @@
 > * [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 > * [Scientific Computing with Python](https://caam37830.github.io/book/index.html)
 > * [Pattern-Recognition-Books Lists](https://github.com/manjunath5496/Pattern-Recognition-Books)
+> * [QuantEcon](https://quantecon.org/)
 
 - [STA 141C Additional Readings](#sta-141c-additional-readings)
   - [Lecture 2-1](#lecture-2-1)
@@ -24,6 +25,7 @@
 * [Overflow and Underflow](https://www.educative.io/answers/what-are-overflow-and-underflow)
 * [Catastrophic cancellation - mathematics](https://www.cs.utexas.edu/users/flame/laff/alaff/a2appendix-catastrophic-cancellation.html)
 * [Python - Floating Point Arithmetic: Issues and Limitations](https://docs.python.org/3/tutorial/floatingpoint.html)
+* [Boosting numpy: Why BLAS Matters](https://markus-beuckelmann.de/blog/boosting-numpy-blas.html)
 * **More readings of floating point numbers:**
   * *Python Cookbook 3rd Edition* - Chapter 3.3
   * *Python Programming and Numerical Methods - A Guide for Engineers and Scientists* - Chapter 9.2
@@ -64,3 +66,5 @@ $$
 * [LU Decomposition 1](https://www.math.ucdavis.edu/~linear/old/notes11.pdf)
 * [LU Decomposition 2](https://www.math.ucdavis.edu/~anne/WQ2007/mat67-Ln-LU_Factorization.pdf)
 * [Exact Flop-Count for the LU Decomposition](https://cscproxy.mpi-magdeburg.mpg.de/mpcsc/lehre/2016_WS_SC/handouts/handout_LU_counting.pdf)
+
+
