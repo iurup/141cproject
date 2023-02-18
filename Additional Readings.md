@@ -67,4 +67,3 @@ $$
 * [LU Decomposition 2](https://www.math.ucdavis.edu/~anne/WQ2007/mat67-Ln-LU_Factorization.pdf)
 * [Exact Flop-Count for the LU Decomposition](https://cscproxy.mpi-magdeburg.mpg.de/mpcsc/lehre/2016_WS_SC/handouts/handout_LU_counting.pdf)
 
-
