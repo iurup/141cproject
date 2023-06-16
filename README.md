@@ -1,5 +1,4 @@
 # STA 141C Final Project
-**Authors**: Yinyin Guan, Purui Niu, Keying Liu, Shuying Li
 > **Note**
 >
 > * **Proposal**: [Overleaf](https://www.overleaf.com/read/zzxmzqdfcswf), [Google Doc](https://docs.google.com/document/d/1dcO3OXuVgp5WP37fM8YsEkzJwXTj8SWeJz0VrOypLmI/edit?usp=sharing)
@@ -7,4 +6,4 @@
 > * **Presentation**: [Click]()
 > * [Additional readings](Additional%20Readings.md)
 
-Collaborator: Shuying Li, Purui Niu
+**Collaborator**: Shuying Li, Purui Niu
